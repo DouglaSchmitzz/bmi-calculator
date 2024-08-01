@@ -44,7 +44,7 @@ body {
 }
 
 #img img {
-    width: 32rem;
+    width: 25rem;
 }
 
 #calculator {
@@ -52,6 +52,7 @@ body {
     flex-direction: column;
     gap: 2rem;
     padding: 2rem;
+    padding-bottom: 3rem;
     color: #f8fafc;
     background-color: #262626;
     border-radius: 8px;
@@ -64,7 +65,7 @@ body {
 }
 
 #title {
-    font-size: 2rem;
+    font-size: 1.5rem;
     position: relative;
 }
 
@@ -72,7 +73,7 @@ body {
     position: absolute;
     content: "";
     background-color: #16a34a;
-    width: 29rem;
+    width: 22rem;
     height: 3px;
     bottom: 0;
     left: 0;
@@ -80,7 +81,7 @@ body {
 }
 
 .input-box {
-    font-size: 1.1rem;
+    font-size: 1rem;
     color: #cbd5e1;
     font-weight: 500;
 }
@@ -90,23 +91,23 @@ body {
     align-items: center;
     justify-content: space-between;
     background-color: #3f3f46;
-    padding: 0.3rem;
+    padding: 0.2rem;
     border-radius: 3px;
     margin-top: 3px;
-}
+}   
 
 .input-field span,
 .input-field span i {
     color: #cbd5e1;
-    font-size: 1.3rem;
-    padding: .6rem 1rem;
+    font-size: .9rem;
+    padding: 0.3rem 1rem;
 }
 
 .input-field input {
     background-color: transparent;
     border: none;
     width: 100%;
-    font-size: 1.3rem;
+    font-size: 1rem;
     color: #f8fafc;
     padding: 0 .5rem; 
 }
@@ -122,11 +123,11 @@ body {
 
 #calculate {
     border: none;
-    font-size: 1.25rem;
+    font-size: 1.1rem;
     font-weight: bold;
     background-color: #16a34a;
     color: #f8fafc;
-    padding: .5rem  0;
+    padding: .4rem  0;
     border-radius: 3px;
     cursor: pointer;
 }
@@ -144,7 +145,7 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
-    font-size: 2.25rem;
+    font-size: 1rem;
 }
 
 bmi span:last-child {
@@ -159,7 +160,7 @@ bmi span:last-child {
 #more-info {
     text-align: center;
     border-top: 1px solid #ffffff34;
-    padding: 1.5rem;
+    padding: .5rem;
 }
 
 #more-info a {
@@ -167,6 +168,7 @@ bmi span:last-child {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-top: 1.5rem;
     gap: .6rem;
     font-size: .875rem;
     text-decoration: none;
