@@ -64,7 +64,7 @@ body {
 }
 
 #title {
-    font-size: 2.25rem;
+    font-size: 2rem;
     position: relative;
 }
 
@@ -72,7 +72,7 @@ body {
     position: absolute;
     content: "";
     background-color: #16a34a;
-    width: 32rem;
+    width: 29rem;
     height: 3px;
     bottom: 0;
     left: 0;
