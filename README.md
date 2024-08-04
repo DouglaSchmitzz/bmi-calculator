@@ -28,3 +28,6 @@
 - Make your changes
 - <a href= "https://github.com/DouglaSchmitzz/bmi-calculator/pulls">Create a pull request<a/>
 
+# Buy me a coffee ☕
+- https://buymeacoffee.com/douglaschmitzz 
+
