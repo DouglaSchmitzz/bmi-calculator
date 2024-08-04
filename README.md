@@ -26,5 +26,5 @@
 - Contribution are always welcome and recommended! Here is how:
 - Clone https://github.com/YOURLOGIN/bmi-calculator.git
 - Make your changes
-- Create a pull request
+- <a href= "https://github.com/DouglaSchmitzz/bmi-calculator/pulls">Create a pull request<a/>
 
