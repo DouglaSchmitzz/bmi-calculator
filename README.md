@@ -1,7 +1,7 @@
 <h1 align="center">Body Mass Index Calculator<h1/>
 
 <div align="center">
-  <img height="400" widht= "300" src="https://github.com/user-attachments/assets/8d3817fb-6099-42da-930c-85533370e48b"/>
+  <img height="400" width= "800" src="https://github.com/user-attachments/assets/8d3817fb-6099-42da-930c-85533370e48b"/>
 </div>
 
 
