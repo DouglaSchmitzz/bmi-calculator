@@ -40,11 +40,11 @@ body {
 #container {
     display: flex;
     align-items: center;
-    gap: 3.5rem;
+    gap: 80px;
 }
 
 #img img {
-    width: 25rem;
+    width: 450px;
 }
 
 #calculator {
